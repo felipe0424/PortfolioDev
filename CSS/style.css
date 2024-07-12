@@ -34,3 +34,7 @@ p {
     margin: 0; /* Remove espaçamento */
     padding-top: 5px; /* Adiciona um pequeno espaçamento superior */
 }
+
+.imagem-perfil {
+    width: 150px; /* Define a largura da imagem */
+    height: auto; /* Mantém a proporção da imagem */
