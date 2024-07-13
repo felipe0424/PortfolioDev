@@ -22,10 +22,10 @@ Uma forte influência no Design Gráfico, aprimoro a experiência do usuário pa
 
 
 <div align="center">
-    <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html" style="margin-right: 5px;">
-        <img src="https://github.com/user-attachments/assets/3fda6271-fd40-4485-bb7c-60b927b9feae" alt="GitHub" width="25">
-    </a>
     <a href="https://www.linkedin.com/in/jfeliperamos/">
         <img src="https://github.com/user-attachments/assets/0350e54a-100e-4273-aa51-81aa9fce3d79" alt="LinkedIn" width="25">
+    </a> 
+    <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html">
+        <img src="https://github.com/user-attachments/assets/3fda6271-fd40-4485-bb7c-60b927b9feae" alt="GitHub" width="25">
     </a>
 </div>
