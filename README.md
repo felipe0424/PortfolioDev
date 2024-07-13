@@ -6,7 +6,7 @@ Sou um Desenvolvedor Pleno com foco na aprendizagem e criar soluções inovadora
 
 ## Habilidades e técnicas usadas
 Uma forte influência no Design Gráfico, aprimoro a experiência do usuário para um melhor dinamismo na usabilidade. 
-<div align="center">
+<div align="auto">
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/3804386a-094d-42de-8a5d-f4dfb033ffba" alt="js" width="50"></a>
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/b0cd55d7-f6f0-4cf9-a90d-db45c1832215" alt="html" width="50"></a>
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/6bcb928a-c5f9-4030-9258-3cacee37f553" alt="css" width="50"></a>
@@ -22,9 +22,9 @@ Uma forte influência no Design Gráfico, aprimoro a experiência do usuário pa
 
 <div align="center">
     <a href="https://www.linkedin.com/in/jfeliperamos/">
-        <img src="https://github.com/user-attachments/assets/0350e54a-100e-4273-aa51-81aa9fce3d79" alt="LinkedIn" width="50">
+        <img src="https://github.com/user-attachments/assets/0350e54a-100e-4273-aa51-81aa9fce3d79" alt="LinkedIn" width="25">
     </a>
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html">
-        <img src="https://github.com/user-attachments/assets/3fda6271-fd40-4485-bb7c-60b927b9feae" alt="GitHub" width="50">
+        <img src="https://github.com/user-attachments/assets/3fda6271-fd40-4485-bb7c-60b927b9feae" alt="GitHub" width="25">
     </a>
 </div>
