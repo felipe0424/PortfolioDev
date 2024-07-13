@@ -1,4 +1,4 @@
-# Readme Portfólio
+# Readme Portfólio :rocket:
 Olá a todos! Meu nome é **Felipe Ramos**. Sou um Analista de Desenvolvimento de Sistemas, Designer Gráfico e Desenvolvedor Front-End em formação.
 
 ## Sobre Mim
