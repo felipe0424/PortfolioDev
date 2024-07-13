@@ -1,4 +1,7 @@
 # Readme Portfólio :rocket:
+
+
+
 Olá a todos! Meu nome é **Felipe Ramos**. Sou um Analista de Desenvolvimento de Sistemas, Designer Gráfico e Desenvolvedor Front-End em formação.
 
 ## Sobre Mim
@@ -6,7 +9,7 @@ Sou um Desenvolvedor Pleno com foco na aprendizagem e criar soluções inovadora
 
 ## Habilidades e técnicas usadas
 Uma forte influência no Design Gráfico, aprimoro a experiência do usuário para um melhor dinamismo na usabilidade.
-> *Clique sobre o ícone para mais informações*
+> *Clique nos ícones para mais informações*
 <div align="auto">
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/3804386a-094d-42de-8a5d-f4dfb033ffba" alt="js" width="50"></a>
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/b0cd55d7-f6f0-4cf9-a90d-db45c1832215" alt="html" width="50"></a>
