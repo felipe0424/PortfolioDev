@@ -10,5 +10,5 @@
 <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/152b6027-0e65-45ba-bdcf-c904709fa510" alt="Figma" width="50"></a>
 <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/983173f4-f907-4560-b777-7c391d62b62d" alt="photoshop" width="50"></a>
 <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/82f5702e-0d5e-4f98-8fdd-a8cdb9c8bcb7" alt="Illustrator" width="50"></a>
-<a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/0350e54a-100e-4273-aa51-81aa9fce3d79" alt="in" width="50"></a>
+<a href="https://www.linkedin.com/in/jfeliperamos/"><img src="https://github.com/user-attachments/assets/0350e54a-100e-4273-aa51-81aa9fce3d79" alt="in" width="50"></a>
 <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/3fda6271-fd40-4485-bb7c-60b927b9feae" alt="Github" width="50"></a>
