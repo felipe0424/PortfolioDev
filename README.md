@@ -23,4 +23,4 @@ Uma forte influência no Design Gráfico, aprimoro a experiência do usuário pa
 
 ### Contato
 
-Para saber mais sobre meus trabalhos, entre em contato comigo através do <a href="https://www.linkedin.com/in/jfeliperamos/">LinkedIn</a> ou visite meu <a href="https://www.linkedin.com/in/jfeliperamos/">GitHub.</a>
+Para saber mais sobre meus trabalhos, entre em contato comigo através do <a href="https://www.linkedin.com/in/jfeliperamos/">LinkedIn</a> ou visite meu <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html">GitHub.</a>
