@@ -1,13 +1,13 @@
 # Apresentação Portfólio
-
+---
 Olá a todos! Meu nome é **Felipe Ramos**. Sou um Analista de Desenvolvimento de Sistemas, Designer Gráfico e Desenvolvedor Front-End em formação.
 
 ## Sobre Mim
-
+---
 Sou um Desenvolvedor Pleno com foco na aprendizagem e criar soluções inovadoras e eficazes. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Minha experiência abrange diversas áreas, analista de sistema, banco de dados, design gráfico e experiência do usuário. Meu objetivo é proporcionar interfaces de usuário atraentes e funcionais que ofereçam uma experiência excepcional.
 
 ## Habilidades e técnicas usadas
-
+---
 Uma forte influência no Design Gráfico, aprimoro a experiência do usuário para um melhor dinamismo na usabilidade. 
 
 <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/3804386a-094d-42de-8a5d-f4dfb033ffba" alt="js" width="50"></a>
@@ -22,5 +22,4 @@ Uma forte influência no Design Gráfico, aprimoro a experiência do usuário pa
 <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/3fda6271-fd40-4485-bb7c-60b927b9feae" alt="Github" width="50"></a>
 
 ### Contato
----
-Para saber mais sobre meus trabalhos, entre em contato comigo através do <a href="https://www.linkedin.com/in/jfeliperamos/">LinkedIn</a> ou visite meu <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html">GitHub.</a>
+> Para saber mais sobre meus trabalhos, entre em contato comigo através do <a href="https://www.linkedin.com/in/jfeliperamos/">LinkedIn</a> ou visite meu <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html">GitHub.</a>
