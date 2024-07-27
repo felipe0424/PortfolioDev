@@ -1,10 +1,13 @@
 <head>
-    <link rel="stylesheet" type="text/css" href="/src/assets/style/global.css">
+    <link rel="stylesheet" type="text/css" href="css/global.css">
 </head>
+<body>
+    <div class="imagem-perfil">
+        <img src="assets/images/perfil.png" alt="perfil" width="150">
+    </div>
+</body>
 
-<div class="perfil" align="center">
-<img src="/src/assets/images/perfil.png" alt="perfil" width="150" align="center">
-</div>
+
 
 # :rocket: Sobre Mim 
 

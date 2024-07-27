@@ -93,3 +93,15 @@ p {
     width: 20px; 
     height: 20px;
 }
+
+.perfil {
+    display: block;
+    margin: 0 auto;
+}
+
+.perfil img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
