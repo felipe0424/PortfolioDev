@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;/* #282828; */
+    background-color: #282828; /* #ffffff */
     color: #ffffff; 
     font-family: SF Pro, Barlow; 
     display: flex; 
@@ -10,21 +10,21 @@ body {
     flex-direction: column;
 }
 h1 {
-    font-family: 'Arial';
     font-size: 2.5em;
     font-weight: bold;
     color: #ffffff; 
     margin-bottom: 10px; 
 }
 h2 {
-    font-family: 'Arial';
     font-size: 1.5em; 
     font-weight: normal; 
-    color: #007BFF;
+    color: #D55609;
     margin: 20px; 
     padding-bottom: 0; 
 }
-
+h2:hover { 
+    color: #D28F15;
+}
 p {
     margin: 0; 
     padding-top: 5px; 
@@ -34,8 +34,11 @@ p {
     width: 150px;
     height: auto;
     border-radius: 50%;
-    outline: 3px solid #007BFF; 
-    outline-offset: 10px;
+    outline: 3px solid #D55609; 
+    outline-offset: 8px;
+}
+.imagem-perfil:hover {
+    outline: 3px solid #D28F15;
 }
 
 .DivLinks {
@@ -45,12 +48,12 @@ p {
 }
 
 .links {
-    background-color: #007BFF; 
+    background-color: #D55609; 
     color: #fff;
     border: none; 
     border-radius: 25px; 
     padding: 10px 20px; 
-    margin: 10px 0;
+    margin: 5px 0;
     font-size: 16px; 
     cursor: pointer; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
@@ -60,22 +63,27 @@ p {
 }
 
 .links:hover {
-    background-color: #0056b3; 
+    background-color: #D28F15; 
 }
 
 .rodape {
     background-color: #fff; 
-    border-radius: 15px; 
-    padding: 20px; 
     display: flex;
-    justify-content: center; 
+    justify-content: center;
+    width: 160px; 
     align-items: center; 
+    border: none; 
+    border-radius: 25px; 
+    padding: 10px 20px; 
+    margin: 5px 0;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    transition: background-color 0.3s ease;  
+    text-align: center;
 }
 
 .images {
     display: flex;
-    gap: 20px; 
+    gap: 20px;
 }
 
 .images img {
