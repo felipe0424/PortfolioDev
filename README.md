@@ -1,4 +1,8 @@
-<div align="center">
+<head>
+    <link rel="stylesheet" type="text/css" href="/src/assets/style/global.css">
+</head>
+
+<div class="perfil" align="center">
 <img src="/src/assets/images/perfil.png" alt="perfil" width="150" align="center">
 </div>
 
