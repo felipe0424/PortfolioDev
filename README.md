@@ -1,5 +1,5 @@
 <head>
-    <link rel="stylesheet" type="text/css" href="/src/assets/style/global.css">
+    <link rel="stylesheet" type="text/css" href="../assets/style/global.css">
 <body>
     <div class="imagem-perfil">
         <img src="/src/assets/images/perfil2.png" alt="perfil" width="150">
