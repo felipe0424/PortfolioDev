@@ -2,6 +2,8 @@
 <a href="/src/assets/images/perfil.png"><img src="https://github.com/user-attachments/assets/b0cd55d7-f6f0-4cf9-a90d-db45c1832215" alt="html" width="70" align="center"></a>
 </div>
 
+<a href="https://felipe0424.github.io/PortfolioDev/src/public/index.html"> Link </a>
+
 
 # :rocket: Sobre Mim 
 
@@ -22,8 +24,6 @@ Uma forte influência no Design Gráfico, aprimoro a experiência do usuário pa
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/983173f4-f907-4560-b777-7c391d62b62d" alt="photoshop" width="50"></a>
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/82f5702e-0d5e-4f98-8fdd-a8cdb9c8bcb7" alt="Illustrator" width="50"></a>
 </div>
-
-<a href="/src/public/index.html"> Link </a>
 
 ## :telephone_receiver:	Contato
 Para saber mais sobre meus trabalhos, entre em contato comigo através do <a href="https://www.linkedin.com/in/jfeliperamos/">LinkedIn</a> ou visite meu <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html">GitHub.</a> 
