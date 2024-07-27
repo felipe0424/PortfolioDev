@@ -2,12 +2,26 @@
 <a href="/src/assets/images/perfil.png"><img src="https://github.com/user-attachments/assets/b0cd55d7-f6f0-4cf9-a90d-db45c1832215" alt="html" width="70" align="center"></a>
 </div>
 
-<a align='center' href="https://felipe0424.github.io/PortfolioDev/src/public/index.html"> Link </a>
-
 # :rocket: Sobre Mim 
-Olá a todos! Meu nome é **Felipe Ramos**. Sou um Analista de Desenvolvimento de Sistemas, Designer Gráfico e Desenvolvedor Front-End em formação.
 
-Sou um Desenvolvedor Júnior com foco na aprendizagem e criar soluções inovadoras e eficazes. **Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.** Minha experiência abrange diversas áreas, analista de sistema, banco de dados, design gráfico e experiência do usuário. Meu objetivo é proporcionar interfaces de usuário atraentes e funcionais que ofereçam uma experiência excepcional.
+Olá! Sou **Felipe Ramos**, um **Desenvolvedor Front-End** apaixonado por criar experiências digitais incríveis. 
+
+Tenho experiência em **HTML, CSS, JavaScript** e frameworks como **React e Angular**. Já desenvolvi projetos front-end, desde sites responsivos até aplicações web complexas. 
+
+Sou um profissional **comprometido, proativo e apaixonado por aprender**. Busco constantemente aprimorar minhas habilidades e me manter atualizado com as últimas tendências do mercado.
+
+**Minhas principais habilidades:**
+
+* HTML5, CSS3, JavaScript (ES6+)
+* React, Angular
+* Git, GitHub
+* Design responsivo
+* UI/UX Design
+
+**Confira meu portfólio para ver meus trabalhos:**
+
+<a align='center' href="https://felipe0424.github.io/PortfolioDev/src/public/index.html"> Acessar Porfólio </a>
+
 
 #  :computer:	Habilidades e técnicas 
 Uma forte influência no Design Gráfico, aprimoro a experiência do usuário para um melhor dinamismo na usabilidade.
