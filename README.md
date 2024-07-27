@@ -1,11 +1,13 @@
 <head>
-    <link rel="stylesheet" type="text/css" href="css/global.css">
-</head>
+    <link rel="stylesheet" type="text/css" href="/src/assets/style/global.css">
 <body>
     <div class="imagem-perfil">
         <img src="/src/assets/images/perfil2.png" alt="perfil" width="150">
     </div>
 </body>
+</head>
+
+
 
 
 
