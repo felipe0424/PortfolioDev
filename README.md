@@ -4,9 +4,7 @@
 
 <a align='center' href="https://felipe0424.github.io/PortfolioDev/src/public/index.html"> Link </a>
 
-
 # :rocket: Sobre Mim 
-
 Olá a todos! Meu nome é **Felipe Ramos**. Sou um Analista de Desenvolvimento de Sistemas, Designer Gráfico e Desenvolvedor Front-End em formação.
 
 Sou um Desenvolvedor Júnior com foco na aprendizagem e criar soluções inovadoras e eficazes. **Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.** Minha experiência abrange diversas áreas, analista de sistema, banco de dados, design gráfico e experiência do usuário. Meu objetivo é proporcionar interfaces de usuário atraentes e funcionais que ofereçam uma experiência excepcional.
