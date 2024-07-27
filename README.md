@@ -2,7 +2,7 @@
 <a href="/src/assets/images/perfil.png"><img src="https://github.com/user-attachments/assets/b0cd55d7-f6f0-4cf9-a90d-db45c1832215" alt="html" width="70" align="center"></a>
 </div>
 
-<a href="https://felipe0424.github.io/PortfolioDev/src/public/index.html"> Link </a>
+<a align='center' href="https://felipe0424.github.io/PortfolioDev/src/public/index.html"> Link </a>
 
 
 # :rocket: Sobre Mim 
@@ -11,7 +11,7 @@ Olá a todos! Meu nome é **Felipe Ramos**. Sou um Analista de Desenvolvimento d
 
 Sou um Desenvolvedor Júnior com foco na aprendizagem e criar soluções inovadoras e eficazes. **Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.** Minha experiência abrange diversas áreas, analista de sistema, banco de dados, design gráfico e experiência do usuário. Meu objetivo é proporcionar interfaces de usuário atraentes e funcionais que ofereçam uma experiência excepcional.
 
-##  :computer:	Habilidades e técnicas 
+#  :computer:	Habilidades e técnicas 
 Uma forte influência no Design Gráfico, aprimoro a experiência do usuário para um melhor dinamismo na usabilidade.
 > *Clique no ícone para mais informações*
 <div align="auto">
@@ -25,9 +25,10 @@ Uma forte influência no Design Gráfico, aprimoro a experiência do usuário pa
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/82f5702e-0d5e-4f98-8fdd-a8cdb9c8bcb7" alt="Illustrator" width="50"></a>
 </div>
 
-## :telephone_receiver:	Contato
+# :telephone_receiver:	Contato
 Para saber mais sobre meus trabalhos, entre em contato comigo através do <a href="https://www.linkedin.com/in/jfeliperamos/">LinkedIn</a> ou visite meu <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html">GitHub.</a> 
 
+<!--
 <div align=center>
     <a href="https://www.linkedin.com/in/jfeliperamos/">
         <img src="https://github.com/user-attachments/assets/0350e54a-100e-4273-aa51-81aa9fce3d79" alt="LinkedIn" width="25">
@@ -35,8 +36,7 @@ Para saber mais sobre meus trabalhos, entre em contato comigo através do <a hre
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html">
         <img src="https://github.com/user-attachments/assets/3fda6271-fd40-4485-bb7c-60b927b9feae" alt="GitHub" width="25">
     </a>
-</div>
-
+</div> -->
 
 > [!WARNING]
 > Este código é disponibilizado exclusivamente para fins de estudo e aprendizado. A reprodução total ou parcial deste código, sem autorização prévia, é expressamente proibida. A utilização deste código em projetos comerciais, distribuição não autorizada ou qualquer outro uso que não seja educativo pode resultar em sanções legais. Ao utilizar este código, você concorda em respeitar os termos de uso e a propriedade intelectual do autor.
