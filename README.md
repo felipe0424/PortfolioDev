@@ -10,6 +10,14 @@ Tenho experiência em **HTML, CSS, JavaScript** e frameworks como **React e Angu
 
 Sou um profissional **comprometido, proativo e apaixonado por aprender**. Busco constantemente aprimorar minhas habilidades e me manter atualizado com as últimas tendências do mercado.
 
+**Confira meu portfólio para ver meus trabalhos:**
+
+<a align='center' href="https://felipe0424.github.io/PortfolioDev/src/public/index.html"> Acessar Porfólio </a>
+
+
+#  :computer:	Habilidades e técnicas 
+Uma forte influência no Design Gráfico, aprimoro a experiência do usuário para um melhor dinamismo na usabilidade.
+
 **Minhas principais habilidades:**
 
 * HTML5, CSS3, JavaScript (ES6+)
@@ -18,14 +26,8 @@ Sou um profissional **comprometido, proativo e apaixonado por aprender**. Busco 
 * Design responsivo
 * UI/UX Design
 
-**Confira meu portfólio para ver meus trabalhos:**
-
-<a align='center' href="https://felipe0424.github.io/PortfolioDev/src/public/index.html"> Acessar Porfólio </a>
-
-
-#  :computer:	Habilidades e técnicas 
-Uma forte influência no Design Gráfico, aprimoro a experiência do usuário para um melhor dinamismo na usabilidade.
 > *Clique no ícone para mais informações*
+
 <div align="auto">
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/3804386a-094d-42de-8a5d-f4dfb033ffba" alt="js" width="50"></a>
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/b0cd55d7-f6f0-4cf9-a90d-db45c1832215" alt="html" width="50"></a>
