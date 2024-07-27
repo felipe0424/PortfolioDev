@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/src/assets/images/perfil.png" alt="perfil" width="70" align="center">
+<img src="/src/assets/images/perfil.png" alt="perfil" width="150" align="center">
 </div>
 
 # :rocket: Sobre Mim 
