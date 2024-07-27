@@ -1,5 +1,5 @@
 <div align="center">
-<a href="/src/assets/images/perfil.png"><img src="https://github.com/user-attachments/assets/b0cd55d7-f6f0-4cf9-a90d-db45c1832215" alt="html" width="70" align="center"></a>
+<img src="/src/assets/images/perfil.png" alt="perfil" width="70" align="center">
 </div>
 
 # :rocket: Sobre Mim 
