@@ -3,7 +3,7 @@
 </head>
 <body>
     <div class="imagem-perfil">
-        <img src="assets/images/perfil.png" alt="perfil" width="150">
+        <img src="/src/assets/images/perfil2.png" alt="perfil" width="150">
     </div>
 </body>
 
