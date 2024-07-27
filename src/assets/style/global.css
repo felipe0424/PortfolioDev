@@ -19,15 +19,16 @@ h2 {
     font-size: 1.5em; 
     font-weight: normal; 
     color: #D55609;
-    margin: 20px; 
     padding-bottom: 0; 
 }
 h2:hover { 
     color: #D28F15;
 }
 p {
-    margin: 0; 
-    padding-top: 5px; 
+    display: flex;
+    width: 500px;
+    height: 50px;
+    margin: 0px;  
 }
 
 .imagem-perfil {
@@ -36,6 +37,7 @@ p {
     border-radius: 50%;
     outline: 3px solid #D55609; 
     outline-offset: 8px;
+    transition: outline 0.3s ease;
 }
 .imagem-perfil:hover {
     outline: 3px solid #D28F15;
@@ -63,7 +65,8 @@ p {
 }
 
 .links:hover {
-    background-color: #D28F15; 
+    background-color: #D28F15;
+    transform: scale(1.05);
 }
 
 .rodape {
