@@ -1,6 +1,8 @@
 <body>
-    <div align="center" >
-        <img src="/src/assets/images/perfil2.png" alt="perfil" width="150">
+    <div align="center">
+        <a href="https://felipe0424.github.io/PortfolioDev" target="_blank">
+        <img src="src/assets/images/PortfolioDev.svg" alt="Portfolio" width="auto">
+        </a>
     </div>
 </body>
 
