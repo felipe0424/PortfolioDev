@@ -1,9 +1,9 @@
 body {
     background-image: url("../images/bg.jpg");
-    background-size: cover;
+    background-size:cover;
     background-position: center center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment:scroll;
     font-family: 'Asap', Barlow;
     font-size: 16px;
     font-weight: 400;
@@ -38,8 +38,8 @@ footer {
     flex-direction: column;
     align-items: center;
     padding-bottom: 2%;
-    padding-top: 50px;
-    margin: 10px;
+    padding-top: 10px;
+    margin: 0px;
 }
 
 h1 {
