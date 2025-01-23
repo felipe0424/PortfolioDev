@@ -1,7 +1,7 @@
 <body>
     <div align="center">
-        <a href="https://felipe0424.github.io/PortfolioDev" target="_blank">
-        <img src="src/assets/images/PortfolioDev.svg" alt="Portfolio" width="auto">
+        <a href="https://portfolio-dev-gilt.vercel.app/" target="_blank">
+        <img src="src/assets/images/thumbnail.svg" alt="Portfolio" width="auto">
         </a>
     </div>
 </body>
